@@ -156,6 +156,7 @@ const container = `<div class="verticalSection section-1 editorsChoiceContainer"
         position: absolute;
         margin: 0 !important;
         bottom: 30px;
+        left: 30px;
     }
 
     .editorsChoiceItemRating {
